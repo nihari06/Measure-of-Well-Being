@@ -4,16 +4,15 @@ This project predicts the **Human Development Index (HDI)** of a country based o
 
 ---
 
-- **Team Lead:** IRFAN
+- **Team Lead:** SHAIK MOHAMMED IRFAN
 - **Team Members:** 
-  - ANJALI
-  - GEETHANJALI
+  - PENNAM ANJALI
+  - POKURI GEETHANJALI
   - PATHI VENKATA NIHARI
-  - MADHU
+  - ULLANGULA MADHU
 
-- **Program:** AICTE Virtual Internship – June 2025
+- **Program:** Smart Bridge Virtual Internship Program – JUNE 2026
 - **Domain:** Python Programming
-- **Duration:** 1 Month (June 18 – July 30, 2025)
 - **Focus Area:** Artificial Intelligence & Machine Learning
 - **Project:** Human Development Index (HDI) Prediction
 
@@ -33,7 +32,11 @@ The goal of this project is to predict the Human Development Index of a country 
 
 ## 🌟 Project: Human Development Index Prediction
 
-<img width="1396" height="704" alt="HDI Prediction Project Screenshot" src="YOUR_SCREENSHOT_LINK_HERE" />
+### 🎥 Demo Video
+
+Watch the complete project demonstration here:
+
+🔗 [Human Development Index Prediction Demo Video](https://drive.google.com/file/d/1fZ_MIXXAEvCQgVotqwtuxsLphcazsoaC/view)
 
 ---
 
