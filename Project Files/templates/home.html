@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <title>Human Development Index</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+        
+          
+        
+  
+</head>
+<body>
+
+<div class="navbar">
+    <a href="/Prediction" class="nav-link">Predict HDI</a>
+    <a href="/Home" class="nav-link active">Home</a>
+</div>
+
+<h1>🌍 Human Development Index (HDI)</h1>
+
+<div class="content">
+    <h2>Understanding the Human Development Index</h2>
+    
+    <p>
+        The <strong>Human Development Index (HDI)</strong> is a composite statistic that measures a country's overall development based on three important dimensions:
+    </p>
+
+    <ul>
+        <li><strong>Life Expectancy at Birth:</strong> Measures the average lifespan and reflects health and healthcare quality</li>
+        <li><strong>Education:</strong> Includes both Expected Years of Schooling and Mean Years of Schooling, indicating access and quality of education</li>
+        <li><strong>Gross National Income (GNI) Per Capita:</strong> Reflects the standard of living and economic productivity</li>
+    </ul>
+
+    <h2 style="margin-top: 30px;">HDI Categories</h2>
+    
+    <p>Countries are classified into four categories based on their HDI score:</p>
+
+    <ul>
+        <li><strong>Low HDI (0.3 - 0.4):</strong> Countries with developing infrastructure and limited resources</li>
+        <li><strong>Medium HDI (0.4 - 0.7):</strong> Countries showing moderate development with improving conditions</li>
+        <li><strong>High HDI (0.7 - 0.8):</strong> Developed nations with strong infrastructure and services</li>
+        <li><strong>Very High HDI (0.8 - 1.0):</strong> Highly developed nations with excellent living standards</li>
+    </ul>
+
+    <h2 style="margin-top: 30px;">About This Project</h2>
+    
+    <p>
+        This intelligent application uses a <strong>Machine Learning Linear Regression model</strong> to predict the Human Development Index score based on user-provided values for life expectancy, education metrics, and income. The model analyzes the relationships between these key development indicators and provides both a numerical HDI score and the corresponding development category.
+    </p>
+
+    <p style="margin-top: 20px; font-style: italic; color: #666;">
+        Get started by clicking the "Predict HDI" button to input your country's development indicators and discover its predicted HDI score.
+    </p>
+
+    <a href="/Prediction" class="cta-button">➜ Predict HDI Score</a>
+</div>
+
+<footer>
+    <p>&copy; 2024 Human Development Index Prediction System. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
